@@ -8,5 +8,6 @@
                   stdlib
                  ]},
   {mod, { modbus_app, []}},
-  {env, []}
+  {env, []},
+  {registered,[]}
  ]}.
